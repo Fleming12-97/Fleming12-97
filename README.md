@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Adidela Fleming 👋
 
-<!--
-**Fleming12-97/Fleming12-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior QA Engineer** — I break things before your users do.
 
-Here are some ideas to get you started:
+5+ years building and scaling test automation frameworks from scratch, catching bugs early, and shipping quality software on time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+
+- **Test Automation** — Selenium (Java), Playwright, Cypress, Appium, Cucumber (BDD)
+- **API Testing** — Postman, Rest Assured, REST & GraphQL
+- **CI/CD** — Jenkins, GitHub Actions, Azure DevOps Pipelines
+- **Languages** — Java, TypeScript, JavaScript, Python
+- **Tools** — Jira, Azure DevOps, HP ALM, SonarQube, SQL
+
+---
+
+## Where I've Done It
+
+| Company | Role |
+|--------|------|
+| **CORtracker Inc** | Senior QA Engineer – API & Automation |
+| **Ratan Hospitality Group** | QA Analyst / Business Analyst |
+| **Amazon** | QA Consultant |
+| **Accenture (Facebook)** | Business Operations / QA Analyst |
+
+---
+
+## By the Numbers
+
+- 📈 35% improvement in regression coverage
+- ⚡ 60% reduction in manual QA effort
+- 🐛 30% reduction in data sync defects
+
+---
+
+## Education & Certs
+
+- 🎓 MS, Computer Science & IT — Sacred Heart University
+- ✅ SAFe POPM Certified
+
+---
+
+📫 **adidelashantifleming@gmail.com** | 📞 551-344-5607
