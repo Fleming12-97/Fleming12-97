@@ -1,18 +1,19 @@
 # Hi, I'm Adidela Fleming 👋
 
-**Senior QA Engineer** — I break things before your users do.
+**AI/ML Engineer** — I build intelligent systems before data becomes noise.
 
-5+ years building and scaling test automation frameworks from scratch, catching bugs early, and shipping quality software on time.
+Hands-on experience building and optimizing LLM applications, developing end-to-end ML pipelines, and deploying scalable AI solutions using modern MLOps and cloud platforms.
 
 ---
 
 ## What I Do
 
-- **Test Automation** — Selenium (Java), Playwright, Cypress, Appium, Cucumber (BDD)
-- **API Testing** — Postman, Rest Assured, REST & GraphQL
-- **CI/CD** — Jenkins, GitHub Actions, Azure DevOps Pipelines
-- **Languages** — Java, TypeScript, JavaScript, Python
-- **Tools** — Jira, Azure DevOps, HP ALM, SonarQube, SQL
+- **Machine Learning & LLMs** — PyTorch, scikit-learn, Transformer Architectures, Fine-Tuning, Prompt Engineering, RAG
+- **Data Processing** — Pandas, PySpark, Feature Engineering, Unstructured Data Preprocessing
+- **ML Engineering**- End-to-End ML Pipelines, Model Optimization, Inference Optimization, Distributed Training
+- **MLOps & CI/CD** — MLflow, GitHub Actions, CI/CD Pipelines
+- **Cloud**- AWS (S3, SageMaker), Azure ML, Databricks
+- **Languages** — Python, SQL
 
 ---
 
@@ -20,18 +21,20 @@
 
 | Company | Role |
 |--------|------|
-| **CORtracker Inc** | Senior QA Engineer – API & Automation |
-| **Ratan Hospitality Group** | QA Analyst / Business Analyst |
+| **CORtracker Inc** | Jr. AI/ML Engineer (Intern) |
+| **Ratan Hospitality Group** | IT QA Analyst |
 | **Amazon** | QA Consultant |
+| **LoopBell INC** | Business Analyst| 
 | **Accenture (Facebook)** | Business Operations / QA Analyst |
 
 ---
 
 ## By the Numbers
 
-- 📈 35% improvement in regression coverage
-- ⚡ 60% reduction in manual QA effort
-- 🐛 30% reduction in data sync defects
+- ⚙️ Built and optimized end-to-end ML pipelines for training, evaluation, and deployment
+- 📊 Achieved R² of 0.88 in predictive modeling (migration analysis)
+- 🌦️ Developed ML models with 89% accuracy for weather classification
+- 🚀 Improved data preprocessing workflows to enhance model performance and data quality
 
 ---
 
